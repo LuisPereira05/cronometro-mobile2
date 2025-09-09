@@ -1,5 +1,8 @@
 # Cronômetro Flutter
 
+![Cronometro Funcionando](captura.png)
+![Video do Cronometro Funcionando](Cronometro.gif)
+
 Este projeto implementa um **cronômetro simples** em Flutter, utilizando a arquitetura MVVM (Model-View-ViewModel). O cronômetro possui funcionalidades como **iniciar**, **parar**, **resetar** e **registrar voltas**, além de duas barras de progresso circulares que indicam o tempo decorrido, com animação suave a cada 16 milissegundos.
 
 ## Funcionalidades
